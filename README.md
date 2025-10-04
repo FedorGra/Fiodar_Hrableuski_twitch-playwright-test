@@ -72,7 +72,7 @@ twitch-test-automation/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/twitch-test-automation.git
+git clone https://github.com/FedorGra/twitch-test-automation.git
 cd twitch-test-automation
 ```
 
